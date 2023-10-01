@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bryant Farrel from Indonesia!
 - 🏫 I'm currently a student from the University of Indonesia.
 - 👀 I’m interested in a lot of things, mainly maths and programming!
-- 🌱 I’m currently learning CS50's Python, and hopefully finish it.
+- 🌱 I’m currently learning Harvard's CS50 Python, and hopefully finish it.
 - 💞️ I’m looking forward to my future plans, and hopefully succeed!
 - 📫 My email: bryant.farrel.t@gmail.com (Please don't spam!)
 
