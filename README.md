@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Bryant Farrel from Indonesia!
-- 🏫 I'm currently a student from the University of Indonesia.
-- 👀 I’m interested in a lot of things, mainly maths and programming!
-- 🌱 I’m currently learning Harvard's CS50 Python, and hopefully finish it.
-- 💞️ I’m looking forward to my future plans, and hopefully succeed!
-- 📫 My email: bryant.farrel.t@gmail.com (Please don't spam!)
+- 👋 Hi, I’m Bryant Farrel Titanius from Indonesia!
+- 🏫 I'm currently an undergraduate student in Statistics from the University of Indonesia.
+- 👀 I’m interested in a lot of things, mainly quantitative finance and data science.
+- 🧑‍💼 My LinkedIn: www.linkedin.com/in/bryant-farrel-titanius
+- 📫 My Email: bryant.farrel.t@gmail.com
 
 <!---
 bryantft/bryantft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
